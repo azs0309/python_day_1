@@ -2,3 +2,4 @@ hello foo
 asdhasdasdadsh
 added new line after first commit
 added after adding a branch new_branch
+new_branch checkedout -- its a part of new_branch and not master
