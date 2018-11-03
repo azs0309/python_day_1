@@ -1,0 +1,7 @@
+#!/bin/python   
+#This is to create file self executable
+myname = "Mahesh"
+print (myname)
+print (myname.lower())
+print (myname.upper())
+print (myname.title())
